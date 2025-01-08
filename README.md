@@ -43,7 +43,6 @@ The goal of this project is to build and train a **Multimodal Deep Learning mode
     ```
 3. Install the dependencies
    ```bash
-   conda install -c intel mkl_fft
    pip install --user --requirement requirements.txt
    ```
 
